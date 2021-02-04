@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding = 'utf-8') as fh:
 
 setuptools.setup(
     name = 'GuruStock',
-    version = '1.0.0',
+    version = '1.0.1',
     author = 'Vitor Leonardo Pauloski',
     author_email = 'vitorleonardo.pauloski@gmail.com',
     description = "GuruStock is a Python package for extracting market data from Guru app.",
